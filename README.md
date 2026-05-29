@@ -46,7 +46,7 @@ Als Komponenten habe ich unter Beachtung des "Think Big" nicht einzelne Klassen 
 ### Schwierigkeiten / Imperfektion
 
 Für mich viel komplexer als das Use-Case-Diagramm. Mir war von vornherein nicht klar, welche Komponenten benötigt werden und wie sei miteinander kommunizieren und wie die APIs und Artefakte einbezogen werden können.
-Während des Zeichnens kam aber Schritt für Schritt die Erkenntnis und am Ende ein vereinfachtes, aber sinnvolles Diagramm.
+Während des Zeichnens kam aber Schritt für Schritt die Erkenntnis und am Ende ein sinnvolles Diagramm.Im Vergleich mit den anderen Diagramen glänzt es aber nicht mit Übersichtlichkeit.
 
 # 3. Klassendiagramm
 
