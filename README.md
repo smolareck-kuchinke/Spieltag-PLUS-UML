@@ -48,7 +48,7 @@ Als Komponenten habe ich unter Beachtung des "Think Big" nicht einzelne Klassen 
 Für mich viel komplexer als das Use-Case-Diagramm. Mir war von vornherein nicht klar, welche Komponenten benötigt werden und wie sei miteinander kommunizieren und wie die APIs und Artefakte einbezogen werden können.
 Während des Zeichnens kam aber Schritt für Schritt die Erkenntnis und am Ende ein sinnvolles Diagramm.Im Vergleich mit den anderen Diagramen glänzt es aber nicht mit Übersichtlichkeit.
 
-# 3. Klassendiagramm
+## 3. Klassendiagramm
 
 ## Enthaltene Klassen
 
@@ -104,7 +104,7 @@ Ein Verein hat mehrere Spiele.
 
 Die größte Herausforderung bestand hier bei den Beziehungen zwischen den Klassen. Insbesondere die Unterschiede zwischen Assoziation, Aggregation und Komposition waren nicht immer eindeutig. Ich war auch erst unsicher, ob Tickets Teil eines Spiels sind. Habe mich aber dann dafür entschieden. Ohne Spiel kein Ticket, aber auch ohne Ticket kein Spiel für die Person.
 
-# 4. Aktivitätsdiagramm
+## 4. Aktivitätsdiagramm
 
 ## Ziel
 
@@ -139,7 +139,7 @@ Die größte Herausforderung bestand hier bei den Beziehungen zwischen den Klass
 Anfangs hatte ich den Ablauf des Ticketkaufs sehr linear modelliert. 
 Erst später kamen die alternativen Pfade der Registrierung und Anmeldung und die Prüfung der Zahlung hinzu. Dadurch entstand meiner Meinung nach ein realitätsnäheres Diagramm mit Entscheidungen und Schleifen.
 
-# 5. Sequenzdiagramm
+## 5. Sequenzdiagramm
 
 ## Beteiligte Objekte
 
