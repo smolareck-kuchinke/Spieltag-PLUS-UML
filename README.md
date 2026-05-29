@@ -121,6 +121,38 @@ Ein Verein hat mehrere Spiele.
 
 ![Aktivitätsdiagramm](images/aktivitaetsdiagramm.png)
 
+# UML-E1 – Sequenzdiagramm
+
+
+## Beteiligte Objekte
+
+- Fan
+- Webanwendung
+- Benutzerverwaltung
+- Ticketsystem
+- Datenbank
+
+## Nachrichtenfluss
+
+1. Fan wählt ein Ticket aus.
+2. Die Webanwendung prüft den Benutzer über die Benutzerverwaltung.
+3. Nach erfolgreicher Prüfung wird die Zahlung durchgeführt.
+4. Das Ticketsystem speichert das Ticket in der Datenbank.
+5. Das Ticketsystem generiert einen QR-Code.
+6. Die Webanwendung zeigt das Ticket dem Fan an.
+
+## Verwendete UML-Elemente
+
+- Lifelines
+- Aktivierungsbalken
+- Nachrichten
+- Rückgabenachrichten
+- Zeitliche Reihenfolge
+- 
+## Diagramm
+
+![Sequenzdiagramm](images/sequenzdiagramm.png)
+
 
 
 
