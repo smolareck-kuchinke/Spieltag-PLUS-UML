@@ -71,7 +71,7 @@ Aggregation
 
 Stadion ◇── Spiel
 
-Ein Stadion beherbergt mehrere Spiele.
+Ein Stadion kann mehrere Spiele austragen.
 
 Spiel ◇── KI Analyse
 
@@ -79,7 +79,7 @@ Zu einem Spiel können mehrere Analysen erzeugt werden.
 
 Benutzer ◇── Ticket
 
-Ein Benutzer besitzt Tickets.
+Ein Benutzer besitzt 0 oder mehr Tickets.
 
 Assoziation
 
