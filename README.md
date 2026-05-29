@@ -1,3 +1,5 @@
+# TEIL A
+
 # Spieltag-PLUS-UML
 UML Diagramme zum Projekt Spieltag PLUS
 
@@ -152,6 +154,85 @@ Ein Verein hat mehrere Spiele.
 ## Diagramm
 
 ![Sequenzdiagramm](images/sequenzdiagramm.png)
+
+
+# TEIL B (GenAI / PlantUML)
+
+
+## Ziel
+
+Zusätzlich zu den manuell erstellten UML-Diagrammen wurden Diagramme mit Hilfe einer KI textbasiert erzeugt. Hierfür wurde PlantUML verwendet.
+
+## Verwendetes Werkzeug
+
+- PlantUML
+- Generative KI zur Erzeugung des UML-Quellcodes
+
+## 1. KI-generiertes Use-Case-Diagramm
+
+Prompt: "Erzeuge ein UML Use-Case-Diagramm für die Plattform Spieltag PLUS.
+
+Akteure:
+- Fan
+- Stadionpersonal
+- Admin
+- KI-System
+
+Use Cases:
+- Ticket kaufen
+- Kommentar veröffentlichen
+- Ticket scannen
+- Stadionbereich sperren
+- Kommentare moderieren
+- User sperren
+- Notfall erkennen
+- Spielhighlight erkennen
+
+Verbinde die Akteure mit den passenden Use Cases.
+Nutze PlantUML."
+
+![PlantUML Use Case](images/plantuml-usecase.png)
+
+Das Diagramm wurde anhand eines Textprompts automatisch erzeugt und anschließend mit PlantUML visualisiert.
+
+## 2. KI-generiertes Klassendiagramm
+
+Prompt:
+"Erzeuge ein UML Klassendiagramm für Spieltag PLUS.
+
+Klassen:
+- Benutzer
+- Ticket
+- Spiel
+- Stadion
+- Verein
+- Kommentar
+- KIAnalyse
+
+Füge Attribute und Methoden hinzu.
+
+Beziehungen:
+- Benutzer besitzt Tickets
+- Benutzer erstellt Kommentare
+- Spiel enthält Tickets
+- Stadion beherbergt Spiele
+- Verein nimmt an Spielen teil
+- Spiel erzeugt KIAnalysen
+
+Nutze PlantUML."
+
+![PlantUML Klassendiagramm](images/plantuml-klassendiagramm.png)
+
+## Erkenntnisse
+
+- UML-Diagramme lassen sich sehr schnell aus Textbeschreibungen erzeugen.
+- Die KI erstellt brauchbare Grundstrukturen.
+- Fachliche Details und Kardinalitäten müssen häufig nachbearbeitet werden.
+- PlantUML eignet sich gut für eine Text-First-Modellierung.
+
+## Fazit
+
+Die Kombination aus Generativer KI und PlantUML ermöglicht eine schnelle Erstellung von UML-Diagrammen. Die Ergebnisse müssen jedoch fachlich geprüft und gegebenenfalls angepasst werden.
 
 
 
