@@ -60,6 +60,7 @@ Komposition
 Spiel ♦── Ticket
 
 Ein Ticket existiert nur im Kontext eines bestimmten Spiels.
+Findet das SPiel nicht statt, verfällt das Ticket für diese spezielle Spiel mit diesem speziellen Datum.
 
 Benutzer ♦── Kommentar
 
