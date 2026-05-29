@@ -121,7 +121,7 @@ Ein Verein hat mehrere Spiele.
 
 ![Aktivitätsdiagramm](images/aktivitaetsdiagramm.png)
 
-# UML-E1 – Sequenzdiagramm
+# Sequenzdiagramm
 
 
 ## Beteiligte Objekte
