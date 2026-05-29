@@ -50,7 +50,7 @@ Als Komponenten habe ich unter Beachtung des "Think Big" nicht einzelne Klassen 
 - Kommentar
 - KI Analyse
 
-## Verwendete UML-Elemente
+## Verwendete UML-Elemente: Komposition / Aggregation / Assoziation und Kardinalitäten
 
 ### Erklärung Beziehungen
 
