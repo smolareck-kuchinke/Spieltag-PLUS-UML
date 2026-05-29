@@ -85,7 +85,7 @@ Assoziation
 
 Verein ─── Spiel
 
-Ein Verein kann an mehreren Spielen beteiligt sein.
+Ein Verein hat mehrere Spiele.
 
 
 ![Klassendiagramm](images/klassendiagramm.png)
