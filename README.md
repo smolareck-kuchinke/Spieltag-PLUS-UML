@@ -136,8 +136,11 @@ Die größte Herausforderung bestand hier bei den Beziehungen zwischen den Klass
 
 ![Aktivitätsdiagramm](images/aktivitaetsdiagramm.png)
 
-# 5. Sequenzdiagramm
+### Schwierigkeiten / Imperfektion
+Anfangs hatte ich den Ablauf des Ticketkaufs sehr linear modelliert. 
+Erst später kamen die alternativen Pfade der Registrierung und Anmeldung und die Prüfung der Zahlung hinzu. Dadurch entstand meiner Meinung nach ein realitätsnäheres Diagramm mit Entscheidungen und Schleifen.
 
+# 5. Sequenzdiagramm
 
 ## Beteiligte Objekte
 
@@ -163,10 +166,15 @@ Die größte Herausforderung bestand hier bei den Beziehungen zwischen den Klass
 - Nachrichten
 - Rückgabenachrichten
 - Zeitliche Reihenfolge
-- 
+  
 ## Diagramm
 
 ![Sequenzdiagramm](images/sequenzdiagramm.png)
+
+
+### Schwierigkeiten / Imperfektion
+Hier habe ich eng am Skript gearbeitet. Dieses Diagramm war zunächst ungewohnt, da hier nicht die Struktur, sondern die zeitliche Kommunikation zwischen Objekten dargestellt wird. 
+Insbesondere die Aktivierungsbalken und Rückgabepfeile mussten anhand der Vorlesungsbeispiele verstanden werden. Fand ich am schwierigsten von allen Diagrammen.
 
 
 # TEIL B (GenAI / PlantUML)
