@@ -64,6 +64,7 @@ Ein Ticket existiert nur im Kontext eines bestimmten Spiels.
 Benutzer ♦── Kommentar
 
 Kommentare gehören zu einem Benutzer und werden von diesem erstellt.
+Falss Benutzer gelöscht wird, ist auch sien Kommentar weg.
 
 Aggregation
 
