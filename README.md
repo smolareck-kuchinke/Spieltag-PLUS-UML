@@ -1,6 +1,6 @@
 # TEIL A
 
-# SpieltagPLUS-UML
+# SpieltagPLUS-UMLs
 
 ## 1. Use-Case-Diagramm
 
