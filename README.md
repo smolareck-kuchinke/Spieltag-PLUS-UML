@@ -226,13 +226,14 @@ Nutze PlantUML."
 ## Erkenntnisse
 
 - UML-Diagramme lassen sich sehr schnell aus Textbeschreibungen erzeugen.
-- Die KI erstellt brauchbare Grundstrukturen.
-- Fachliche Details und Kardinalitäten müssen häufig nachbearbeitet werden.
+- Beim einfachere Use-Case-Diagramm ist alles korrekt dargestellt.
+- Das komplexere Klassendiagramm ist auch sehr gut gelungen, hier fehlen nur die Methoden in der Klasse Verein.
+- Die Assotiationen sind zu meinem Erstaunen alle korrekt, genauso wie manuell von mir erstellt. 
 - PlantUML eignet sich gut für eine Text-First-Modellierung.
 
 ## Fazit
 
-Die Kombination aus Generativer KI und PlantUML ermöglicht eine schnelle Erstellung von UML-Diagrammen. Die Ergebnisse müssen jedoch fachlich geprüft und gegebenenfalls angepasst werden.
+Die Kombination aus Generativer KI und PlantUML ermöglicht eine schnelle Erstellung von UML-Diagrammen. Die Ergebnisse müssen selbstverständlich geprüft werden, sind aber erstaunlich deckungsgleich mit den manuellen Ergebnissen.
 
 
 
