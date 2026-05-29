@@ -1,7 +1,6 @@
 # TEIL A
 
-# Spieltag-PLUS-UML
-UML Diagramme zum Projekt Spieltag PLUS
+# SpieltagPLUS-UML
 
 ## 1. Use-Case-Diagramm
 
