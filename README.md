@@ -26,7 +26,7 @@ Das Komponentendiagramm zeigt die wichtigsten Softwaresysteme von Spieltag-PLUS 
 
 ### Komponenten
 
-- Web-App
+- Webanwednung
 - Mobile-App
 - Ticketing-System
 - Community-System
