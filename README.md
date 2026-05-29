@@ -8,7 +8,7 @@ Das Use-Case-Diagramm zeigt die wichtigsten Akteure und Funktionen der Plattform
 ### Akteure
 - Fan
 - Stadionpersonal
-- Administrator
+- Admini
 - KI-System
 
 ### Zentrale Funktionen
