@@ -90,15 +90,12 @@ Ein Verein hat mehrere Spiele.
 
 ![Klassendiagramm](images/klassendiagramm.png)
 
-# UML-E1 – Aktivitätsdiagramm
+# Aktivitätsdiagramm
 
 ## Ziel
 
  UML-Aktivitätsdiagramm: Es beschreibt den Ablauf eines Ticketkaufs vom Auswählen eines Tickets bis zur erfolgreichen Speichern eines Tickets.
 
-## Diagramm
-
-![Aktivitätsdiagramm](images/aktivitaetsdiagramm.png)
 
 ## Ablauf
 
@@ -120,8 +117,10 @@ Ein Verein hat mehrere Spiele.
 - Entscheidungsknoten
 - Schleife
 
-## Ergebnis
+## Diagramm
 
-Das Aktivitätsdiagramm zeigt den vollständigen Ablauf eines Ticketkaufs inklusive Registrierung, Anmeldung, Zahlungsprüfung und Ticketerstellung.
+![Aktivitätsdiagramm](images/aktivitaetsdiagramm.png)
+
+
 
 
