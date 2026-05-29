@@ -37,3 +37,53 @@ Als Komponenten habe ich unter Beachtung des "Think Big" nicht einzelne Klassen 
 - Datenbank
 
 ![Komponentendiagramm](images/komponentendiagramm.png)
+
+# Klassendiagramm
+
+## Enthaltene Klassen
+
+- Benutzer
+- Ticket
+- Spiel
+- Stadion
+- Verein
+- Kommentar
+- KI Analyse
+
+## Verwendete UML-Elemente
+
+### Erklärung Beziehungen
+
+
+Komposition
+
+Spiel ♦── Ticket
+
+Ein Ticket existiert nur im Kontext eines bestimmten Spiels.
+
+Benutzer ♦── Kommentar
+
+Kommentare gehören zu einem Benutzer und werden von diesem erstellt.
+
+Aggregation
+
+Stadion ◇── Spiel
+
+Ein Stadion beherbergt mehrere Spiele.
+
+Spiel ◇── KI Analyse
+
+Zu einem Spiel können mehrere Analysen erzeugt werden.
+
+Benutzer ◇── Ticket
+
+Ein Benutzer besitzt Tickets.
+
+Assoziation
+
+Verein ─── Spiel
+
+Ein Verein kann an mehreren Spielen beteiligt sein.
+
+
+![Klassendiagramm](images/klassendiagramm.png)
