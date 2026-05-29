@@ -85,11 +85,16 @@ Assoziation
 
 Verein ─── Spiel
 
+Ein Verein hat mehrere Spiele.
+
+
+![Klassendiagramm](images/klassendiagramm.png)
+
 # UML-E1 – Aktivitätsdiagramm
 
 ## Ziel
 
-Für Spieltag PLUS wurde ein UML-Aktivitätsdiagramm erstellt. Es beschreibt den Ablauf eines Ticketkaufs vom Auswählen eines Tickets bis zur erfolgreichen Erstellung eines QR-Codes.
+ UML-Aktivitätsdiagramm: Es beschreibt den Ablauf eines Ticketkaufs vom Auswählen eines Tickets bis zur erfolgreichen Speichern eines Tickets.
 
 ## Diagramm
 
@@ -119,7 +124,4 @@ Für Spieltag PLUS wurde ein UML-Aktivitätsdiagramm erstellt. Es beschreibt den
 
 Das Aktivitätsdiagramm zeigt den vollständigen Ablauf eines Ticketkaufs inklusive Registrierung, Anmeldung, Zahlungsprüfung und Ticketerstellung.
 
-Ein Verein hat mehrere Spiele.
 
-
-![Klassendiagramm](images/klassendiagramm.png)
