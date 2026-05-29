@@ -22,6 +22,10 @@ Das Use-Case-Diagramm zeigt die wichtigsten Akteure und Funktionen der Plattform
 
 ![Use-Case-Diagramm](images/use-case.png)
 
+### Schwierigkeiten / Imperfektion
+
+Eigentlich keine, nur musste im Vorwege entschieden werden, wie viele USe Cases sinnvoll sind, ohne das Diagramm zu überladen.
+
 ## 2. Komponentendiagramm
 
 Das Komponentendiagramm zeigt die wichtigsten Softwaresysteme von Spieltag-PLUS und deren Abhängigkeiten.
@@ -40,6 +44,11 @@ Als Komponenten habe ich unter Beachtung des "Think Big" nicht einzelne Klassen 
 
 ![Komponentendiagramm](images/komponentendiagramm.png)
 
+### Schwierigkeiten / Imperfektion
+
+Für mich viel komplexer als das Use-Case-Diagramm. Mir war von vornherein nicht klar, welche Komponenten benötigt werden und wie sei miteinander kommunizieren und wie die APIs und Artefakte einbezogen werden können.
+Während des Zeichnens kam aber Schritt für Schritt die Erkenntnis und am Ende ein vereinfachtes, aber sinnvolles Diagramm.
+
 # 3. Klassendiagramm
 
 ## Enthaltene Klassen
@@ -55,7 +64,6 @@ Als Komponenten habe ich unter Beachtung des "Think Big" nicht einzelne Klassen 
 ## Verwendete UML-Elemente: Komposition / Aggregation / Assoziation und Kardinalitäten
 
 ### Erklärung Beziehungen
-
 
 Komposition
 
@@ -91,6 +99,11 @@ Ein Verein hat mehrere Spiele.
 
 
 ![Klassendiagramm](images/klassendiagramm.png)
+
+
+### Schwierigkeiten / Imperfektion
+
+Die größte Herausforderung bestand hier bei den Beziehungen zwischen den Klassen. Insbesondere die Unterschiede zwischen Assoziation, Aggregation und Komposition waren nicht immer eindeutig. Ich war auch erst unsicher, ob Tickets Teil eines Spiels sind. Habe mich aber dann dafür entschieden. Ohne Spiel kein Ticket, aber auch ohne Ticket kein Spiel für die Person.
 
 # 4. Aktivitätsdiagramm
 
