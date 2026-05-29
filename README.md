@@ -251,9 +251,6 @@ Nutze PlantUML."
 - Die Assotiationen sind zu meinem Erstaunen alle korrekt, genauso wie manuell von mir erstellt. 
 - PlantUML eignet sich gut für eine Text-First-Modellierung.
 
-## Fazit
-
-Die Kombination aus Generativer KI und PlantUML ermöglicht eine schnelle Erstellung von UML-Diagrammen. Die Ergebnisse müssen selbstverständlich geprüft werden, sind aber erstaunlich deckungsgleich mit den manuellen Ergebnissen.
 
 
 
