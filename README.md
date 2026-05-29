@@ -166,7 +166,7 @@ Zusätzlich zu den manuell erstellten UML-Diagrammen wurden Diagramme mit Hilfe 
 ## Verwendetes Werkzeug
 
 - PlantUML
-- Generative KI zur Erzeugung des UML-Quellcodes
+- Generative KI zur Erzeugung des UML-Quellcodes (ChatGPT)
 
 ## 1. KI-generiertes Use-Case-Diagramm
 
